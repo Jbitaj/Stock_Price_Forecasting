@@ -1,5 +1,5 @@
-# Stock Price Forecasting
-https://img.shields.io/badge/Python-%203.11%2B-blue
+# Stock Price Forecasting     ![](https://img.shields.io/badge/Python%203.11%2B-blue)
+
 
 Stock price forecasting using classical ARIMA, ARIMAX models and deep learning models LSTM and GRU
 This Project predict the price of Saderat Bank one day ahead for three years
