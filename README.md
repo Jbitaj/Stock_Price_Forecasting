@@ -11,8 +11,7 @@ Additionally, two deep learning models, LSTM and GRU are used for enhanced predi
 ## Installation
 ### 🔹1.Run the project in Google Colab(Recommended)
 click to open project directly in **Google Colab**:
-![Open in colab](https://img.shields.io/badge/Open%20in-%20colab-yellow?logo=googlecolab)
- (https://colab.research.google.com/github/YourUsername/Stock_Price_Forecasting/blob/main/Stock_yn-price.ip_yn
+![Open in colab](https://img.shields.io/badge/Open%20in-%20colab-yellow?logo=googlecolab)(https://github.com/Jbitaj/Stock_Price_Forecasting/blob/AALG/Stock_Price_Forecasting.ipynb)
 ### 🔹2. Run the project locally (personal computer)
 1. Fisrt install **Python 3.11+**
 2. Then clone the repository:
