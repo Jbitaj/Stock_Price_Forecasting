@@ -52,7 +52,7 @@ in this section you will see the graphs and results of the models.This includes:
 -📈 **GRU model forecast graphs:**
 
 ![GRU_Resut1](OUTPUTS\GRU1.png)
-![GRU_Resut2](OUTPUTS\GRU2.png)
+![GRU_Resut2](OUTPUTS/GRU2.png)
 
 
 
