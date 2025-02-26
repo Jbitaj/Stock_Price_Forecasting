@@ -36,22 +36,22 @@ Only based on exprience and randomness can you change the required parameters to
 in this section you will see the graphs and results of the models.This includes:
 
 -📈 **ARIMA model forecast graphs:**
-![ARIMA_Resut1](OUTPUTS\ARIMA1.png)
-![ARIMA_Resut1](OUTPUTS\ARIMA2.png)
+![ARIMA_Resut1](OUTPUTS/ARIMA1.png)
+![ARIMA_Resut1](OUTPUTS/ARIMA2.png)
 
 -📈 **ARIMAX model forecast graphs:**
 
-![ARIMAX_Resut1](OUTPUTS\ARIMAX1.png)
-![ARIMAX_Resut2](OUTPUTS\ARIMAX2.png)
+![ARIMAX_Resut1](OUTPUTS/ARIMAX1.png)
+![ARIMAX_Resut2](OUTPUTS/ARIMAX2.png)
 
 -📈 **LSTM model forecast graphs:**
 
-![LSTM_Resut1](OUTPUTS\LSTM1.png)
-![LSTM_Resut2](OUTPUTS\LSTM2.png)
+![LSTM_Resut1](OUTPUTS/LSTM1.png)
+![LSTM_Resut2](OUTPUTS/LSTM2.png)
 
 -📈 **GRU model forecast graphs:**
 
-![GRU_Resut1](OUTPUTS\GRU1.png)
+![GRU_Resut1](OUTPUTS/GRU1.png)
 ![GRU_Resut2](OUTPUTS/GRU2.png)
 
 
